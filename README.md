@@ -1,0 +1,1 @@
+Estou gostando bastante do curso. Algumas partes pareceram um pouco vagas no início do Scrum, mas depois acabou fazendo sentido. Já na parte de Git, começou acelerado, mas pausando os videos, ficou mais fácil acompanhar e praticar. É bem diferente das outras linguagens que estou aprendendo.
